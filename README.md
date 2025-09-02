@@ -60,8 +60,6 @@ These tools assist with audio enhancement, text-to-speech, transcription, and vi
 <h2><strong>5. Productivity and Utility Tools</strong></h2>
 These tools offer various functionalities for organization, learning, and creative brainstorming.
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li><strong><a href="https://arc.net/search" target="_blank" rel="noopener">Arc Search</a>:</strong> Improves information finding on phones by creating organized web pages from searches. It's available on iPhone and iPad with the Arc browser, combining information from different websites for complete answers.</li>
  	<li><strong><a href="https://perchance.org/ai-chat?utm_source=iseoai.com" target="_blank" rel="noopener">Perchance</a> - <a href="https://iseoai.com/perchance/" target="_blank" rel="noopener">Review</a>:</strong> A platform of pre-built AI random generators, allowing users to create or use public templates for fantasy names, sci-fi dialogue, plot ideas, or startup names without login.</li>
  	<li><strong><a href="https://infografix.app/?utm_source=iseoai.com" target="_blank" rel="noopener">Infographic Generator</a> - <a href="https://iseoai.com/infografix-app/" target="_blank" rel="noopener">Review</a>:</strong> Creates timelines, lists, Q&amp;As, processes, cycles, and other graphs/graphics. It offers AI-generated infographics based on input and allows customization of aspect ratios. Users get 10 free generations.</li>
@@ -75,6 +73,4 @@ These tools offer various functionalities for organization, learning, and creati
  	<li><strong><a href="https://gitmind.com/?utm_source=iseoai.com" target="_blank" rel="noopener">Gitmind AI</a> - <a href="https://iseoai.com/gitmind/" target="_blank" rel="noopener">Review</a>:</strong> Helps with easy-to-understand mind mapping visualization.</li>
  	<li><strong><a href="https://www.dekki.ai/?utm_source=iseoai.com" target="_blank" rel="noopener">DEKKI.ai</a> - <a href="https://iseoai.com/dekki-ai/" target="_blank" rel="noopener">Review</a>:</strong> A user-friendly and accurate AI tool for students and learners, particularly mentioned as an alternative to pdf2anki.</li>
  	<li><a href="https://drive.google.com/file/d/1H3jlefSrqU1iQ09QprkvOub70ICKmLB6/view?usp=sharing&amp;utm_source=iseoai.com" target="_blank" rel="noopener">PDF Converter by iSEOAI</a> - <a href="https://iseoai.com/pdf-to-docx-text-converter/" target="_blank" rel="noopener">Review</a> - Free offline PDF to DOCX &amp; TXT converter for Windows. Fast, secure, no internet needed. Download now and edit your PDFs easily.</li>
-</ul>
-</li>
 </ul>
